@@ -4,9 +4,11 @@
 
 **English** · [简体中文](./README.zh-CN.md) · [日本語](./README.ja.md) · [한국어](./README.ko.md) · [Deutsch](./README.de.md)
 
-### Track every AI token — then bring your usage to life
+### See where your AI coding tokens go
 
-An accurate, local-first token usage and cost dashboard for **46 AI coding tools** — plus a desktop pet, **4 native widgets**, and **15 achievement tracks**. No cloud account, no API keys, no setup.
+Token Tracker brings usage from **46 AI coding tools** into one dashboard. Explore token trends, model and project breakdowns, and estimated costs; use the desktop pet, widgets, and achievements to keep activity visible. Local tracking works without an account or API key, while cloud sync and the leaderboard are optional.
+
+<sub>This repository is a fork of <a href="https://github.com/xiufengsun/TokenTracker">xiufengsun/TokenTracker</a>. The releases and some resources linked below are maintained by the upstream project.</sub>
 
 [![npm version](https://img.shields.io/npm/v/tokentracker-cli.svg?color=blue)](https://www.npmjs.com/package/tokentracker-cli)
 [![npm downloads](https://img.shields.io/npm/dm/tokentracker-cli.svg?color=brightgreen)](https://www.npmjs.com/package/tokentracker-cli)
@@ -651,3 +653,4 @@ The Clawd character design belongs to Anthropic. This is a community project wit
 <a href="https://www.tokentracker.cc">tokentracker.cc</a>  ·  <a href="https://www.npmjs.com/package/tokentracker-cli">npm</a>  ·  <a href="https://github.com/xiufengsun/TokenTracker">GitHub</a>
 
 </div>
+
