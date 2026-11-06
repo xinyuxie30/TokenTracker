@@ -4,9 +4,11 @@
 
 [English](./README.md) · **简体中文** · [日本語](./README.ja.md) · [한국어](./README.ko.md) · [Deutsch](./README.de.md)
 
-### 跨所有 CLI，看清你到底在 AI 上花了多少钱
+### 看清 AI 编程用了多少 token、花在哪里
 
-自动采集 **46 款 AI 编码工具** 的 token 用量，全程本地聚合，用一套漂亮的 Dashboard 看真实成本与趋势。不需要云账号、不需要 API Key、不需要任何配置 —— 一条命令搞定。
+Token Tracker 将 **46 款 AI 编码工具**的用量汇总到一个仪表盘，让你查看使用趋势、模型与项目分布，以及估算费用。桌宠、小组件和成就让日常用量更容易留意。本地统计无需账号或 API Key；云同步和排行榜可按需开启。
+
+<sub>本仓库 fork 自 <a href="https://github.com/xiufengsun/TokenTracker">xiufengsun/TokenTracker</a>，下方的发布包及部分资源由上游项目维护。</sub>
 
 [![npm version](https://img.shields.io/npm/v/tokentracker-cli.svg?color=blue)](https://www.npmjs.com/package/tokentracker-cli)
 [![npm downloads](https://img.shields.io/npm/dm/tokentracker-cli.svg?color=brightgreen)](https://www.npmjs.com/package/tokentracker-cli)
@@ -533,3 +535,4 @@ Clawd 角色设计归属 Anthropic。本项目是社区项目，和 Anthropic �
 <a href="https://www.tokentracker.cc">tokentracker.cc</a>  ·  <a href="https://www.npmjs.com/package/tokentracker-cli">npm</a>  ·  <a href="https://github.com/xiufengsun/TokenTracker">GitHub</a>
 
 </div>
+
